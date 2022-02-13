@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<header>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Santury Of Games</title>
+    <link rel="stylesheet" href="style/main.css">
+    <link rel="stylesheet" href="/style/responsive.css">
+    <link rel="stylesheet" href="js/owl/owl.carousel.min.js">
+    
+    <link rel="stylesheet" href="js/owl/owl.theme.default.min.css">
+</header>
+<body>
+    <header>
+        <div class="container">   
+            <h2 class="logo">Santuary Of Games</h2>
+            <nav>
+                <a href="#"> XBox </a>
+                <a href="#"> PS </a>
+                <a href="#"> Mobile </a>
+                <a href="#"> PC </a>
+            </nav>   
+        </div>
+    </header>          
+    <main>  
+        <div class="gameCapa">
+            <div class="container">
+                <h3 class="titulo">Avatar</h3>
+                <link rel="stylesheet" href="">
+                <p class="descricao"> Das telonas para seu Console</p>
+                <div class= "botoes">
+                    <button role ="button" class="butao">
+                        <i class="far fa-play-circle"></i>
+                        JOGAR AGORA
+                    </button>
+                    <button role ="button" class="butao">
+                        <i class="fas fa-info"></i>
+                        Informações
+                    </button>
+                </div>
+            </div>     
+        </div>    
+    </main>    
+    <div class="carossel-games">
+        <div class="owl-carousel owl-theme">
+            <div class="item"> 
+                <img class="box-game" src="img/Carros 3.jpg" alt="">           
+            </div>
+            <div class="item">
+               <img class="box-game" src="img/CALL of DUTY.jpg" alt="">              
+            </div>
+            <div class="item">
+                <img class="box-game" src="img/Avatar_The_Game.jpg" alt="">
+            </div>
+            <div class="item">
+                <img class="box-game" src="img/Assassin's Creed III.jpg" alt="">                
+            </div>
+            <div class="item">
+                <img class="box-game" src="img/Dragon ball.jpg" alt=""> 
+            </div>
+            <div class="item">
+                <img class="box-game" src="img/Demon Slayer.jpg" alt="">
+            </div>
+            <div class="item">   
+                <img class="box-game" src="img/FIFA 22.jpg" alt="">  
+            </div>
+            <div class="item"> 
+                <img class="box-game" src="img/Fortnite.jpg" alt=""> 
+            </div>
+            <div class="item">
+                 <img class="box-game" src="img/GTA.jpg" alt="">            
+            </div>
+            <div class="item">
+                 <img class="box-game" src="img/Hitman.jpg" alt="">            
+            </div>
+            <div class="item">
+                 <img class="box-game" src="img/Jump Force.jpg" alt="">            
+            </div>
+            <div class="item">
+                 <img class="box-game" src="img/Minecraft.jpg" alt="">            
+            </div>
+            <div class="item">
+                 <img class="box-game" src="img/Mortal Kombat.jpg" alt="">            
+            </div>
+            <div class="item">
+                 <img class="box-game" src="img/Naruto Storm.jpg" alt="">            
+            </div>
+            <div class="item">
+                 <img class="box-game" src="img/One Punch Man.jpg" alt="">            
+            </div>
+            <div class="item">
+             <img class="box-game" src="img/PES.jpg" alt="">            
+            </div>
+        </div>
+    </div>
+ 
+
+
+    <script src="https://kit.fontawesome.com/5cc8fac111.js" > </script>
+    <script src="js/owl/jquery.min.js"></script>
+    <script src="js/owl/owl.carousel.min.js"></script>
+    <script src="/js/owl/setup.js"></script>
+
+    
+</body>
+</html>
